@@ -23,10 +23,9 @@ Num Ticks for Backup : 1031
 4.656: Registering Uninstall Program for -> KB2820917, KB2820917 , 0x0
 4.656: LoadFileQueues: UpdSpGetSourceFileLocation for halmacpi.dll failed: 0xe0000102
 RMB：￥858.
-# -
-
+# 
 ；Total revenue
-RMB：4906.00
+RMB：￥4906.00
 来自：不思议棋牌：jbcs 安卓客户端
 000: ================================================================================
 2.000: 2019/09/16 21:12:49.965 (local)
